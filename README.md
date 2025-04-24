@@ -53,7 +53,7 @@ This repo documents my learning path, practical labs, and notes as I build skill
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ppal2024)
 - 🔐 [TryHackMe](https://tryhackme.com/p/ppal)
-- 📫 Email: your.email@example.com
+- 📫 Email: ppal8377@gmail.com
 
 ---
 
